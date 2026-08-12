@@ -1,4 +1,4 @@
-# 🎂 Birthday Email Automation
+# 🎂 Birthday Wish Email Automation
 
 An automated birthday reminder application built with Python that checks a birthday database and sends a personalized birthday email when a matching date is found.
 
@@ -33,7 +33,7 @@ The project demonstrates practical Python concepts such as CSV data processing, 
 ## 📂 Project Structure
 
 ```text
-Birthday-Email-Automation/
+Birthday-Wish/
 │
 ├── main.py
 ├── birthdays.csv
